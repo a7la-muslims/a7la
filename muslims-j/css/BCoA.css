@@ -541,3 +541,20 @@ legend {
 .vBulletin_editor .controlbar fieldset iframe {
 	border: none;
 }
+.BContent-a7la {
+    width: 100%;
+    text-align:justify;
+}
+.BContentCenter-a7la {
+    /* background: #FFF; */
+    vertical-align: top;
+}
+.BContentRight-a7la {
+    background: transparent url(https://i.servimg.com/u/f56/14/71/20/17/bconte16.png) repeat-y right ;
+
+    padding-right:25px;
+}
+.BContentLeft-a7la {
+    background: transparent url(https://i.servimg.com/u/f56/14/71/20/17/bconte17.png) repeat-y left;
+      padding-left: 25px;
+}
