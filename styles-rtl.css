@@ -10,8 +10,7 @@ html{overflow-x:hidden;overflow-y:scroll}body{display:flex;min-height:100vh;flex
 .poster .poster-more-list a{color:#fff}.poster-list .poster .poster-more-list
 a:hover{color:var(--primary)}.poster-list .poster
 .poster-more-list::-webkit-scrollbar{width:7px;background-color:#111}.poster-list
-.poster
-.poster-more-list::-webkit-scrollbar-thumb{border-radius:10px;background-color:#888}.poster-list
+.poster .poster-more-list::-webkit-scrollbar-thumb{border-radius:10px;background-color:#888}.poster-list
 .poster .poster-more-list .mentiontag{background:none!important}.poster-list
 .poster.poster-more:hover:before{background:#444}.poster-list
 .poster.poster-more:hover .poster-more-list,.poster-list
